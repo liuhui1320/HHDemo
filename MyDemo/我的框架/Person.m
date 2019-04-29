@@ -12,7 +12,7 @@
 
 - (void)doSomething
 {
-    NSLog(@"%@ 在学习...", _name);
+    NSLog(@"%@ 在学习...hahaha", _name);
 }
 
 @end

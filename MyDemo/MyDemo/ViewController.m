@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     Person *p = [Person new];
-    p.name = @"小米";
+     p.name = @"小米";
     [p doSomething];
 }
 
